@@ -137,32 +137,32 @@ Else
               <ul>
                 <li>
                   <span class="bold">
-                    <span class="shape"><i class="fa fa-calendar"></i></span>Release Date::
-                  </span> 07 / October / 2015
+                    <span class="shape"><i class="fa fa-calendar"></i></span>Release Date:
+                  </span> 07 / April / 2014
                 </li>
-                <li>
-                  <span class="bold">
+                
+         <!--         <li><span class="bold">
                     <span class="shape"><i class="fa fa-clock-o"></i></span>Length:
                   </span> 44:09
-                </li>
+                </li>-->
                 <li>
                   <span class="bold">
                     <span class="shape"><i class="fa fa-map-marker"></i></span>Label:
-                  </span> Lipet Recording Studio
+                  </span> ThumbJAMZ Entertainment
                 </li>
                 <li>
                   <span class="bold">
                     <span class="shape"><i class="fa fa-phone"></i></span>Producer:
-                  </span> Oki Prasastio
+                  </span> CHAD CHIZZLE & DJ CHROME
                 </li>
               </ul>
             </div><!--/.list -->
             
-            <div class="button-wrap">
+        <!--    <div class="button-wrap">
               <a href="#">
                 <div class="def-button"><div class="price">$5</div> Buy Now</div>
               </a>
-            </div><!--/.button-wrap -->
+            </div>--><!--/.button-wrap -->
           </div><!--/.album-info -->
 <%
 End If 
@@ -267,83 +267,7 @@ If mobile_browser>0 Then
     </section>
     <!-- Event Single End-->
 
-    <!-- Footer Begin-->
-    <footer class="footer">
-      <div class="container">        
-        <div class="col-md-4 col-sm-4 footer-row">
-          <div class="title"><h4>About The Mixer</h4></div>
-          <div class="content">
-            <div class="text">
-              <p>Fusce sed nibh porttitor, scelerisque elit id, pretium justo. Integer venenatis tempus nisi non varius. Sed dui enim, lobortis et tempor.</p>
-              <p>Fusce sed nibh porttitor, scelerisque elit id, pretium justo. Integer venenatis tempus nisi non varius. Sed dui enim, lobortis et tempor.</p>
-            </div><!-- /.content -->
-          </div><!-- /.text -->
-
-          <div class="title"><h4>STAY Connected</h4></div>
-          <p>Connect With this ThumbJAMZ Mixer on Social Media</p>
-          <div class="content">
-            <div class="socmed-wrap">
-              <a href="#"><i class="fa fa-facebook"></i></a>
-              <a href="#"><i class="fa fa-twitter"></i></a>
-              <a href="#"><i class="fa fa-youtube"></i></a>
-              <a href="#"><i class="fa fa-soundcloud"></i></a>
-            </div><!-- /.socmed-wrap -->
-          </div><!-- /.content -->
-        </div><!-- /.footer-row -->
-
-        <div class="col-md-4 col-sm-4 footer-row">
-          <div class="title"><h4>Upcoming Events</h4></div>
-          <div class="content">
-            <ul class="upcoming-event">
-              <li>
-                <div class="col-md-1 col-sm-1 col-xs-1 date"><span class="number">20</span><br/>Oct</div>
-                <div class="col-md-10 col-sm-10 col-xs-10 name">New Sound Wave - Camp Nou Stadium <br/> <a href="#" class="buy">Buy Ticket</a></div>
-              </li>
-              <li>
-                <div class="col-md-1 col-sm-1 col-xs-1 date"><span class="number">21</span><br/>Sep</div>
-                <div class="col-md-10 col-sm-10 col-xs-10 name">Glory Sound - Brigif Kujang 15 <br/> <a href="#" class="buy">Buy Ticket</a></div>
-              </li>
-              <li>
-                <div class="col-md-1 col-sm-1 col-xs-1 date"><span class="number">10</span><br/>Nov</div>
-                <div class="col-md-10 col-sm-10 col-xs-10 name">Bandung Berisik - Lanud Sulaeman <br/> <a href="#" class="buy">Buy Ticket</a></div>
-              </li>
-              <li>
-                <div class="col-md-1 col-sm-1 col-xs-1 date"><span class="number">17</span><br/>Dec</div>
-                <div class="col-md-10 col-sm-10 col-xs-10 name">Hammersonic - Gasibu Stadium<br/> <a href="#" class="buy">Buy Ticket</a></div>
-              </li>
-            </ul><!-- /.upcoming-event -->
-          </div><!-- /.content -->
-        </div><!-- /.footer-row -->
-
-        <div class="col-md-4 col-sm-4 footer-row">
-          <div class="title"><h4>Instagram</h4></div>
-          <div class="content">
-            <div class="content footer-images">
-              <a class="fancybox" href="assets/images/footer-image1.jpg" data-fancybox-group="gallery">
-                <div class="image"><img src="assets/images/footer-image1.jpg" alt="footer image"></div>
-              </a>
-              <a class="fancybox" href="assets/images/footer-image2.jpg" data-fancybox-group="gallery">
-                <div class="image"><img src="assets/images/footer-image2.jpg" alt="footer image"></div>
-              </a>
-              <a class="fancybox" href="assets/images/footer-image3.jpg" data-fancybox-group="gallery">
-                <div class="image"><img src="assets/images/footer-image3.jpg" alt="footer image"></div>
-              </a>
-              <a class="fancybox" href="assets/images/footer-image4.jpg" data-fancybox-group="gallery">
-                <div class="image"><img src="assets/images/footer-image4.jpg" alt="footer image"></div>
-              </a>
-            </div><!-- /.footer-images -->
-          </div><!-- /.content -->
-
-          <div class="title"></div>
-          <div class="content">
-
-            </div><!-- /.tag-wrap -->
-          </div><!-- /.content -->
-        </div><!-- /.foooter-row -->
-      </div><!-- /.container -->
-
-    </footer><!-- /.footer -->
-    <!-- Footer End-->
+     <!--#include virtual="includes/footer.asp"-->
 
     <section class="copyright">
       <div class="container">
