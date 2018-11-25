@@ -1,6 +1,7 @@
 <% 
 
 Option Explicit
+
 %>
 <!--#include virtual="/includes/browser.asp"-->
 <%
