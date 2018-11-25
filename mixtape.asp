@@ -267,6 +267,7 @@ If mobile_browser>0 Then
     </section>
     <!-- Event Single End-->
 
+
      <!--#include virtual="includes/footer.asp"-->
 
     <section class="copyright">
