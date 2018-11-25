@@ -105,7 +105,13 @@ sid = "xxxx"
       </div>
     </section><!--/.banner -->
     <!-- Banner Title End -->
+                <%
+                'mobile_browser = 1
+If mobile_browser>0 Then
+   'Response.Write("Mobile!<br><hr>")
+Else
     
+    %>
     <!-- Blog Wrap Begin -->
     <section class="blog-wrap">
       <div class="container">
@@ -225,6 +231,10 @@ sid = "xxxx"
           </div><!--/.post-tags-->
 
         </div><!-- /.sidebar-section -->
+        <%
+        
+       End If 
+%>
 
         <div class="col-md-8 post-section right">
 
@@ -238,16 +248,39 @@ sid = "xxxx"
               </div>
             </div><!-- /.post-meta -->
             <div class="post-inner">
+                <%
+                          response.write "Hello"
+If mobile_browser>0 Then
+   'Response.Write("Mobile!<br><hr>")
+Else
+
+ %>
               <div class="post-media">
                 <a href="blog-single.html"><img src="assets/images/gallery1.jpg" alt="Blog images"></a>
               </div>
+              <% End If %>
               <div class="post-head">
-                <div class="title"><a href="blog-single.html"><h2>Tommorow Land Concert Report</h2></a></div>
+                <div class="title"><a href="blog-single.html"><h2>[ Mixtape Name ]</h2></a></div>
                 <div class="subtitle">
                   <a href="#">Lipet Studio</a> / <a href="#">Events</a> / <a href="#">77 comments</a>
                 </div>
+                  <div class="date">
+                <span><strong class="bold">30</strong><br/>Jan</span>
+              </div>
+              <div class="like">
+                <a href="#"><i class="fa fa-heart"></i> 1200</a>
+              </div>
               </div>
               <div class="post-text">
+                        <%
+                          'response.write "Hello"
+If mobile_browser>0 Then
+   Response.Write("Mobile!<br><hr>")
+Else
+   Response.Write("NO Mobile!<br><hr>")
+ End if
+ %>
+   
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget purus convallis, feugiat mauris a, feugiat libero. Phasellus malesuada ut ante rutrum tristique. Phasellus posuere sodales mauris, eu fringilla nulla maximus at. Cras sollicitudin nec nunc vitae scelerisque. Pellentesque venenatis sem eget tortor viverra, ac gravida nisl pharetra. Sed iaculis sit amet erat sed fringilla. Mauris maximus ante ligula, id consectetur dui dignissim ut.</p>
               </div>
               <div class="readmore"><a href="blog-single.html">Read More</a></div>
@@ -260,15 +293,23 @@ sid = "xxxx"
                 <span><strong class="bold">28</strong><br/>Jan</span>
               </div>
               <div class="like">
-                <a href="#"><i class="fa fa-heart"></i> 1200</a>
+                <a href="#"><i class="fa fa-heart"></i> 1258</a>
               </div>
             </div><!-- /.post-meta -->
             <div class="post-inner">
+           <%
+                          response.write "Hello"
+If mobile_browser>0 Then
+   'Response.Write("Mobile!<br><hr>")
+Else
+
+ %>
               <div class="post-media">
-                <a href="blog-single.html"><img src="assets/images/gallery2.jpg" alt="Blog images"></a>
+                <a href="blog-single.html"><img src="assets/images/gallery1.jpg" alt="Blog images"></a>
               </div>
+              <% End If %>
               <div class="post-head">
-                <div class="title"><a href="blog-single.html"><h2>Xtreme Moshpit Concert</h2></a></div>
+                <div class="title"><a href="blog-single.html"><h2> test Xtreme Moshpit Concert</h2></a></div>
                 <div class="subtitle">
                   <a href="#">Lipet Studio</a> / <a href="#">News</a> / <a href="#">77 comments</a>
                 </div>
@@ -290,9 +331,17 @@ sid = "xxxx"
               </div>
             </div><!-- /.post-meta -->
             <div class="post-inner">
+               <%
+                          response.write "Hello"
+If mobile_browser>0 Then
+   'Response.Write("Mobile!<br><hr>")
+Else
+
+ %>
               <div class="post-media">
-                <a href="blog-single.html"><img src="assets/images/gallery3.jpg" alt="Blog images"></a>
+                <a href="blog-single.html"><img src="assets/images/gallery1.jpg" alt="Blog images"></a>
               </div>
+              <% End If %>
               <div class="post-head">
                 <div class="title"><a href="blog-single.html"><h2>Hammersonic Concert Cancelled!</h2></a></div>
                 <div class="subtitle">
@@ -316,9 +365,17 @@ sid = "xxxx"
               </div>
             </div><!-- /.post-meta -->
             <div class="post-inner">
+              <%
+                          response.write "Hello"
+If mobile_browser>0 Then
+   'Response.Write("Mobile!<br><hr>")
+Else
+
+ %>
               <div class="post-media">
-                <a href="blog-single.html"><img src="assets/images/gallery4.jpg" alt="Blog images"></a>
+                <a href="blog-single.html"><img src="assets/images/gallery1.jpg" alt="Blog images"></a>
               </div>
+              <% End If %>
               <div class="post-head">
                 <div class="title"><a href="blog-single.html"><h2>Great Noise In Bandung Berisik</h2></a></div>
                 <div class="subtitle">
@@ -342,9 +399,17 @@ sid = "xxxx"
               </div>
             </div><!-- /.post-meta -->
             <div class="post-inner">
+            <%
+                          response.write "Hello"
+If mobile_browser>0 Then
+   'Response.Write("Mobile!<br><hr>")
+Else
+
+ %>
               <div class="post-media">
-                <a href="blog-single.html"><img src="assets/images/gallery5.jpg" alt="Blog images"></a>
+                <a href="blog-single.html"><img src="assets/images/gallery1.jpg" alt="Blog images"></a>
               </div>
+              <% End If %>
               <div class="post-head">
                 <div class="title"><a href="blog-single.html"><h2>How To Play Guitar Quickly</h2></a></div>
                 <div class="subtitle">
