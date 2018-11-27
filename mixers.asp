@@ -12,6 +12,7 @@ sid = "xxxx"
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -115,7 +116,7 @@ sid = "xxxx"
         <div class="col-md-4 col-sm-4 album-card-wrap">
           <div class="album-card">
             <div class="image hoverdir-target">
-              <img src="assets/images/album2.jpg" alt="image">
+              <img src="assets/images/chadchizzle.jpg" alt="image">
               <div class="overlay">
                 <div class="buy-wrapper">
                   <div class="buy">
@@ -127,9 +128,9 @@ sid = "xxxx"
               </div>
             </div>
             <div class="text">
-              <a href="album-single.html"><div class="title"><h4><font color="yellow">DJ #1 - ( City )</font></h4></div></a>
+              <a href="album-single.html"><div class="title"><h4><font color="yellow">CHAD CHIZZLE - ( Houston, Tx )</font></h4></div></a>
               <div class="genre"><span>Mixtapes available</span></div>
-              <div class="tracks"><span><i class="fa fa-music"></i> 12</span></div>
+              <div class="tracks"><span><i class="fa fa-music"></i> 895</span></div>
             </div>
           </div><!-- /.album-card -->
         </div><!-- /.album-card-wrap -->
@@ -137,7 +138,7 @@ sid = "xxxx"
         <div class="col-md-4 col-sm-4 album-card-wrap">
           <div class="album-card">
             <div class="image hoverdir-target">
-              <img src="assets/images/album2.jpg" alt="image">
+              <img src="assets/images/khaled.jpg" alt="image">
               <div class="overlay">
                 <div class="buy-wrapper">
                   <div class="buy">
@@ -149,9 +150,9 @@ sid = "xxxx"
               </div>
             </div>
             <div class="text">
-              <a href="album-single.html"><div class="title"><h4><font color="yellow">DJ #2 - ( City )</font></h4></div></a>
-              <div class="genre"><span>Rock &amp; Roll</span></div>
-              <div class="tracks"><span><i class="fa fa-music"></i> 10</span></div>
+              <a href="album-single.html"><div class="title"><h4><font color="yellow"> DJ KHALED - ( Miami, FL )</font></h4></div></a>
+              <div class="genre"><span>Hip Hop</span></div>
+              <div class="tracks"><span><i class="fa fa-music"></i> 32,987</span></div>
             </div>
           </div><!-- /.album-card -->
         </div><!-- /.album-card-wrap -->
@@ -159,7 +160,7 @@ sid = "xxxx"
         <div class="col-md-4 col-sm-4 album-card-wrap">
           <div class="album-card">
             <div class="image hoverdir-target">
-              <img src="assets/images/album3.jpg" alt="image">
+              <img src="assets/images/jessoul.jpg" alt="image">
               <div class="overlay">
                 <div class="buy-wrapper">
                   <div class="buy">
@@ -171,79 +172,12 @@ sid = "xxxx"
               </div>
             </div>
             <div class="text">
-              <a href="album-single.html"><div class="title"><h4><font color="yellow">DJ #3 - ( City )</font></h4></div></a>
-              <div class="genre"><span>Alternative</span></div>
-              <div class="tracks"><span><i class="fa fa-music"></i> 11</span></div>
+              <a href="album-single.html"><div class="title"><h4><font color="yellow">JESSOUL - ( Houston, Tx )</font></h4></div></a>
+              <div class="genre"><span>R & B (Original Music + Hits)</span></div>
+              <div class="tracks"><span><i class="fa fa-music"></i> 2,3566</span></div>
             </div>
           </div><!-- /.album-card -->
-        </div><!-- /.album-card-wrap -->
-
-        <div class="col-md-4 col-sm-4 album-card-wrap">
-          <div class="album-card">
-            <div class="image hoverdir-target">
-              <img src="assets/images/album4.jpg" alt="image">
-              <div class="overlay">
-                <div class="buy-wrapper">
-                  <div class="buy">
-                    <a class="link" href="album-single.html">
-                      <span><strong class="bold">View</strong><br/>Tracks</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="text">
-              <a href="album-single.html"><div class="title"><h4>Seigitiga Wahyudi</h4></div></a>
-              <div class="genre"><span>Rock &amp; Roll</span></div>
-              <div class="tracks"><span><i class="fa fa-music"></i> 13</span></div>
-            </div>
-          </div><!-- /.album-card -->
-        </div><!-- /.album-card-wrap -->
-
-        <div class="col-md-4 col-sm-4 album-card-wrap">
-          <div class="album-card">
-            <div class="image hoverdir-target">
-              <img src="assets/images/album5.jpg" alt="image">
-              <div class="overlay">
-                <div class="buy-wrapper">
-                  <div class="buy">
-                    <a class="link" href="album-single.html">
-                      <span><strong class="bold">View</strong><br/>Tracks</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="text">
-              <a href="album-single.html"><div class="title"><h4>Maroon V</h4></div></a>
-              <div class="genre"><span>Alternative</span></div>
-              <div class="tracks"><span><i class="fa fa-music"></i> 12</span></div>
-            </div>
-          </div><!-- /.album-card -->
-        </div><!-- /.album-card-wrap -->
-
-        <div class="col-md-4 col-sm-4 album-card-wrap">
-          <div class="album-card">
-            <div class="image hoverdir-target">
-              <img src="assets/images/album6.jpg" alt="image">
-              <div class="overlay">
-                <div class="buy-wrapper">
-                  <div class="buy">
-                    <a class="link" href="album-single.html">
-                      <span><strong class="bold">View</strong><br/>Tracks</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="text">
-              <a href="album-single.html"><div class="title"><h4>The SIGIT</h4></div></a>
-              <div class="genre"><span>Acoustic</span></div>
-              <div class="tracks"><span><i class="fa fa-music"></i> 11</span></div>
-            </div>
-          </div><!-- /.album-card -->
-        </div><!-- /.album-card-wrap -->
-
+       
         <div class="pagination-wrap col-md-12">
           <ul class="pagination">
             <li>
