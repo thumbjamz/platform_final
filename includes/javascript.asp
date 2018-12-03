@@ -1,7 +1,7 @@
  <%
  Dim x
  x = "Chad"
-Response.Write x & "<br>"
+'Response.Write x & "<br>"
  %>
  <!-- Javascript Plugins -->
     <script src="assets/javascripts/bootstrap.min.js"></script>
