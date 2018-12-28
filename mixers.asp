@@ -3,7 +3,7 @@
 Option Explicit
 
 %>
-<!--#include virtual="/includes/browser.asp"-->
+<!--#include virtual="/platform_final/includes/browser.asp"-->
 <%
 dim sid
 
@@ -21,7 +21,7 @@ sid = "xxxx"
     < <title>Thumbjamz Music Platform - My Subscriptions</title>
 
     <!-- Bootstrap -->
-    <link href="assets/stylesheets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/platform_final/assets/stylesheets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Font Stylesheets -->
 
@@ -29,31 +29,31 @@ sid = "xxxx"
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
 
     <!-- JQuery -->
-    <script src="assets/javascripts/jquery.min.js"></script>
+    <script src="/platform_final/assets/javascripts/jquery.min.js"></script>
 
     <!-- jpreloader -->
-    <link href="assets/javascripts/jpreloader/jpreloader.css" rel="stylesheet">
-    <script src="assets/javascripts/jpreloader/jpreloader.min.js"></script>
+    <link href="/platform_final/assets/javascripts/jpreloader/jpreloader.css" rel="stylesheet">
+    <script src="/platform_final/assets/javascripts/jpreloader/jpreloader.min.js"></script>
 
     <!-- font-awesome.css -->
-    <link href="assets/stylesheets/css/fontawesome/font-awesome.css" rel="stylesheet">
+    <link href="/platform_final/assets/stylesheets/css/fontawesome/font-awesome.css" rel="stylesheet">
 
     <!-- animate.css -->
-    <link href="assets/stylesheets/css/animate.css" rel="stylesheet">
+    <link href="/platform_final/assets/stylesheets/css/animate.css" rel="stylesheet">
     
     <!-- Jplayer -->
-    <link href="assets/javascripts/jplayer/skin/jukebox/css/jplayer.jukebox.css" rel="stylesheet" type="text/css" />
+    <link href="/platform_final/assets/javascripts/jplayer/skin/jukebox/css/jplayer.jukebox.css" rel="stylesheet" type="text/css" />
 
     <!-- Fancybox -->
-    <link href="assets/javascripts/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <link href="/platform_final/assets/javascripts/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
 
     <!-- Owl Carousel -->
-    <link href="assets/javascripts/owl.carousel/owl.carousel.css" rel="stylesheet" type="text/css" />
-    <link href="assets/javascripts/owl.carousel/owl.theme.css" rel="stylesheet" type="text/css" />
+    <link href="/platform_final/assets/javascripts/owl.carousel/owl.carousel.css" rel="stylesheet" type="text/css" />
+    <link href="/platform_final/assets/javascripts/owl.carousel/owl.theme.css" rel="stylesheet" type="text/css" />
   
     <!-- User Defined Style -->
-    <link href="assets/stylesheets/css/style.css" rel="stylesheet">
-    <link href="assets/stylesheets/css/responsive.css" rel="stylesheet">
+    <link href="/platform_final/assets/stylesheets/css/style.css" rel="stylesheet">
+    <link href="/platform_final/assets/stylesheets/css/responsive.css" rel="stylesheet">
 
   </head>
   <body>
@@ -87,7 +87,7 @@ sid = "xxxx"
     </div>
     <!-- Splash Screen End -->
 
-       <!--#include virtual="includes/nav.asp"-->
+       <!--#include virtual="/platform_final/includes/nav.asp"-->
 
     <!-- Banner Title Begin -->
     <section class="banner-title album-banner">
